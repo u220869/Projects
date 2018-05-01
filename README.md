@@ -7,4 +7,6 @@ ___
 In this file you can find the analysis of the mean and variance of some Finish stocks.
 ___
 
+**Name:** *Maarten van Riel*  
+**@:** *m.a.h.c.l.vanriel@tilburguniversity.edu*  
 ![](https://thumbs.gfycat.com/WholeIdealisticGoldeneye-max-1mb.gif)
