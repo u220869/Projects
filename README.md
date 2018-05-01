@@ -3,4 +3,8 @@ This repository contains some data analysations for projects during my time on *
 ___
 'Investeren en Beleggen'
 ---
-[Investeren en beleggen, onderzoeksproject 1](
+* [Investeren en beleggen, onderzoeksproject 1](https://github.com/u220869/Projects/blob/master/Investeren%20en%20Beleggen%2C%20project.ipynb "onderzoeksproject 1")  
+In this file you can find the analysis of the mean and variance of some Finish stocks.
+___
+
+![](https://thumbs.gfycat.com/WholeIdealisticGoldeneye-max-1mb.gif)
