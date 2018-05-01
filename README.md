@@ -9,4 +9,4 @@ ___
 
 **Name:** *Maarten van Riel*  
 **@:** *m.a.h.c.l.vanriel@tilburguniversity.edu*  
-![](https://thumbs.gfycat.com/WholeIdealisticGoldeneye-max-1mb.gif ""What The ... "")
+![](https://thumbs.gfycat.com/WholeIdealisticGoldeneye-max-1mb.gif  ""What The ... "")
