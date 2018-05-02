@@ -4,7 +4,9 @@ ___
 'Investeren en Beleggen'
 ---
 * [Investeren en beleggen, onderzoeksproject 1](https://github.com/u220869/Projects/blob/master/Investeren%20en%20Beleggen%2C%20project.ipynb "onderzoeksproject 1")  
-In this file you can find the analysis of the mean and variance of some Finish stocks.
+In this file you can find the analysis of the mean and variance of some Finish stocks.  
+* [Investeren en beleggen, onderzoeksproject 2](https://github.com/u220869/Projects/blob/master/Onderzoeksproject%20inversteren%20en%20beleggen.ipynb "onderzoeksproject 2")  
+In this file you can find the determination of the Security Market Line of some Finish stocks.
 ___
 
 **Name:** *Maarten van Riel*  
